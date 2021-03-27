@@ -229,3 +229,16 @@ nav ul li a:hover {
     margin-left: 1%;
     font-size: 12px
 }
+.float-icons {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.float-icons span {
+    display: block;
+    background-color: #999;
+    border-radius: 50%;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+}
